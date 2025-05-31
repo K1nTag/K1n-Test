@@ -1,1 +1,13 @@
-root@Gaurav : ~/ Downloads# ifconfig ethe: flags=4099<UP, BROADCAST,MULTICAST> mtu 1500 ether 74:86:7a:2a:b3:b7 txqueuelen 1000 (Ethernet) RX packets 0 bvtes 。(0.。B) RX errors 0 dropped 0 0Verruns 。 frame O TX packets 0 bytes 0 (0.0 B) TX errors 0 dropped 0 overruns 0 Carrier o collisions 。 lo: flags=73<UP, LOOPBACK, RUNNING> mtu 65536 inet 127.0.0.1 netmask 255.0.0.0 inet6 ::1 prefixlen 128 SCopeid 0x10<host> loop txqueuelen 1000 (Local Loopback) RX packets 2252 bytes 782380 (764.0 KiB) RX errors 0 dropped 0 overruns 0 frame 0 TX packets 2252 bytes 782380 (764. KiB) TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0 wlan0: flags=4163<UP, BROADCAST, RUNNING, MULTICAST> mtu 1500 inet 192. 168.0.103 netmask 255.255.255. 0 broadcast 192. 168.0.255 inet6 fe80::be85:56ff: fe68: d69d prefixlen 64 scopeid Ox20<link> ether bc:85:56:68: d6:9d txqueuelen 1000 (Ethernet) RX packets 507208 bytes 703816934 (671.2 MiB) RX errors 0 dropped 0 overruns 0 frame 0 TX packets 347201 bytes 37474712 (35.7 MiB) TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0 root@Gaurav :~/ Downloads#
+    Seçilen klasör: /sdcard/Dark
+    Yerel sunucu başlatiliyor...
+    Serving HTTP on :: port 8080 (http://[::1:8080/) Cloudflare tüneli başlat1liyor 
+    2025-05-19T11:05:14 INF Cloudflare Tunnel'i denediğiniz için teşekkürler. Cloudflare hesabı olmadan bunu yapmak, deney yapmanın ve denemenin hızlı bir yoludur. Bununla birlikte, bu hesapsız tünellerin çalışma süresi garantisi olmadığını ve Cloudflare Online Hizmetleri Kullanım Koşullarına (https: //www.cloudflare.com/website-terms/) tabi olduğunu unutmayın; Cloudflare'ın Tunnel kullanımınızı başarısızlık koşulları ihlalinden soruşturma hakkını saklı tutması gerekir Üretimde Tunelleri kullanmak niyetinde iseniz aşağıdakileri kullanarak yeniden oluşturulan isimli bir tünelde bulunmalısınız.: https:Ildeve lopers Cloudflare.co m/cloudflare-one /connections/ connect-apps
+    2025-05-19T11: 05:14Z INF Tricloudflare'da yeni hızlı bir tünel talep ediyor.
+    İle. 
+    2025-05-19T11:05:24Z GİRİŞ 
+    2025-05-19T11:05:24Z INF Your quick Tunnel has been created! Onu ziyaret edin (gelirmek için biraz zaman alabilir):
+    2025-05-19T11:05:24Z INF  https://desktops-allows-thesaurus-secrets.
+    trycloudflare .com Paylaşılabilir bağlant 1: 
+    2025-05-19T11:05:24Z INF - https://desktops- izin verir -thesaurus- sırları.
+    Trycloudflare. com
+    Sunucu çalişıyor. Durdurmak için CTRL+C
